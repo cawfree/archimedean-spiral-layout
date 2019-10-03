@@ -3,13 +3,13 @@ An algorithm that can be used to place items collision-free within a bounding bo
 
 ## 🚀 Getting Started
 
-Using [`npm`]:
+Using [`npm`]():
 
 ```sh
 npm install --save archimedean-spiral-layout
 ```
 
-Using [`yarn`]:
+Using [`yarn`]():
 
 ```sh
 yarn add archimedean-spiral-layout
