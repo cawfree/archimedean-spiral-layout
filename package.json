@@ -1,0 +1,10 @@
+{
+  "name": "archimedean-spiral-layout",
+  "version": "0.0.1",
+  "description": "An algorithm that can be used to place items collision-free within a bounding box that contains obstacles.",
+  "main": "index.js",
+  "repository": "https://github.com/cawfree/archimedean-spiral-layout",
+  "author": "Alex Thomas (@cawfree) <hello@cawfree.com>",
+  "license": "MIT",
+  "private": false
+}
