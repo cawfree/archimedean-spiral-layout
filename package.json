@@ -1,6 +1,16 @@
 {
   "name": "archimedean-spiral-layout",
   "version": "0.0.1",
+  "keywords": [
+    "layout",
+    "algorithm",
+    "spacing",
+    "space",
+    "spiral",
+    "position",
+    "obstacle",
+    "around"
+  ],
   "description": "An algorithm that can be used to place items collision-free within a bounding box that contains obstacles.",
   "main": "index.js",
   "repository": "https://github.com/cawfree/archimedean-spiral-layout",
