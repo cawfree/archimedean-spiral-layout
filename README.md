@@ -34,3 +34,9 @@ shouldLayout(bounds, obstacles, objectsToPlace);  // [[701.9283498160538,335.593
 
 ## ✌️  License
 [MIT](https://opensource.org/licenses/MIT)
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/cawfree">
+    <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy @cawfree a coffee" width="232" height="50" />
+  </a>
+</p>
